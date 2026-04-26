@@ -3,10 +3,10 @@
 ---
 
 # Temas
-- [[Notes/Resumen - Introduccion a la Economia\|Resumen - Introduccion a la Economia]]
-- [[Notes/Resumen - Teoria del Consumidor\|Resumen - Teoria del Consumidor]]
-- [[Notes/Resumen - Teoria de la Firma\|Resumen - Teoria de la Firma]]
-- [[ Resumen - Mercado y equilibrio\| Resumen - Mercado y equilibrio]]
-- [[Notes/Resumen - Mercados\|Resumen - Mercados]]
-- [[Notes/Resumen - Interacciones Sociales\|Resumen - Interacciones Sociales]]
+- [[Notes/1. Introduccion a la Economia\|1. Introduccion a la Economia]]
+- [[Notes/2. Teoria del Consumidor\|2. Teoria del Consumidor]]
+- [[Notes/3. Teoria de la Firma\|3. Teoria de la Firma]]
+- [[Notes/4. Mercado y equilibrio\|4. Mercado y equilibrio]]
+- [[Notes/5. Mercados\|5. Mercados]]
+- [[Notes/6. Interacciones Sociales\|6. Interacciones Sociales]]
 
