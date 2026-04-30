@@ -1,0 +1,44 @@
+{
+  "/": [
+    "Categories",
+    "Notes"
+  ],
+  "/Categories": [
+    "Paradigmas de la Programación"
+  ],
+  "/Notes": [
+    "Clase 1 - Introduccion a C++",
+    "Clase 2 - Conceptos Basicos C++",
+    "Clase 3.5 - Introducción a Containers",
+    "Clase 4 - Intro a OOP",
+    "Clase 5 - Sobrecarga de Operadores",
+    "Clase 6 - Herencia",
+    "Clase 7 - Polimorfismo",
+    "Calificadores const y static",
+    "Callback y Lambda",
+    "Calificadores y Operadores",
+    "Clase 8 - Patrones de Diseño",
+    "Compilador C++",
+    "Containers",
+    "Copia de Objetos",
+    "D&D con Interfaces y Abstractas",
+    "Funciones y Archivos",
+    "Funciones y Clases friend",
+    "Herencia",
+    "Interfaces y Metodos Virtuales",
+    "Introduccion a OOP",
+    "Memoria",
+    "Operaciones Basicas C++",
+    "Patrones de Diseño Creacionales",
+    "Patrones de Diseño De Comportamiento",
+    "Patrones de Diseño Estructurales",
+    "Polimorfismo",
+    "Principios y Fundamentos de OOP",
+    "Programación de Clases C++",
+    "Punteros y Referencias",
+    "Relaciones entre Objetos",
+    "Sobrecarga de Operadores",
+    "Tipados de Programación",
+    "Tipo de Datos Basicos"
+  ]
+}
