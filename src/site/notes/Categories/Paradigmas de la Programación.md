@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/categories/paradigmas-de-la-programacion/","tags":["gardenEntry"],"dg-note-properties":{"categories":["[[Subjects]]"],"year":2026,"semestre":"1ro","status":["[[Active]]"],"type":["Hub"],"Profesores":["Javier Godoy"],"tags":null}}
 ---
 
+
 # Magistrales
 
 ```dataview
